@@ -1,0 +1,2 @@
+# garbage_source
+ゴミソースコード
